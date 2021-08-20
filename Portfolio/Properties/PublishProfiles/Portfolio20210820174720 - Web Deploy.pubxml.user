@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXgP317FZC0OdLs5vgjysyAAAAAACAAAAAAAQZgAAAAEAACAAAAC07z8iqvhv30k54WaLXwcIEPTLqlzfYXtFNaKM6w9xFgAAAAAOgAAAAAIAACAAAACQGHTOK2oVqDUZcF/tBNcApJdzEUtzpTqSiUQewrM254AAAAAYda7NBNqGk7Rm5crZUNjwXMloaGKg+vW3PA2gf+1pPrB9OfVMuB4xokasNQXg6+vVTecrxFVqCBkPIqMeUUr+GUu85uWFk5htJqpHp86TOkUdhaJ416VR+0YYMaNszuIB+1bJ93RKmVfO2CHAmVowbc19THVzQ6kAInKwSFfW4UAAAACK6nH8iwTexV7P3NVA52nF2sLhzr2Luc8DCFS7LrP8AJnEv20RwFfYrCoq4iQ0pXsBr2zkXMnMbeEEF1WY8FQM</EncryptedPassword>
+    <History>True|2021-08-20T16:51:54.5458670Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source = PortfolioDb.db</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
